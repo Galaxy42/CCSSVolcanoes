@@ -1,0 +1,6 @@
+Name; Mauna Loa
+Location; Hawaii.
+Country; United States.
+Coordinates; 19ºN 155ºW
+Interesting thing;
+Is one of the five volcanos in Hawaii.

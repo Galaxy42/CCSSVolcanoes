@@ -1,0 +1,6 @@
+Name; Stromboli
+Location; Sicily.
+Country; Italy.
+Coordinates; 38ºN 15ºE
+Interesting thing;
+The volcano of Stromboli has been in almost continuous eruption for the past 2,000 years.

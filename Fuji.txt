@@ -1,0 +1,6 @@
+Name; Fuji
+Location; Chubu region, Honshu.
+Country; Japan.
+Coordinates; 35ºN 138ºE
+Interesting thing;
+The last erupted was in 1707.

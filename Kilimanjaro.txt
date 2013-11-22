@@ -1,0 +1,6 @@
+Name; Kilimanjaro
+Location; Kilimanjaro Region.
+Country; Tanzania.
+Coordinates; 3ºS 37ºE
+Interesting thing;
+Is the highest volcano in Africa.
